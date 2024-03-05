@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 20px;">NewLife An open-source, generative AI-powered assistant designed to provide comprehensive information,</span><br>
+  <span style="font-size: 20px;">MotherMind NewLife An open-source, generative AI-powered assistant designed to provide comprehensive information,</span><br>
   <span style="font-size: 16px;">advice, and support for expectant mothers during their pregnancy journey.</span><br>
 </p>
 
@@ -13,7 +13,7 @@ The maternal mortality rate (MMR) in Nepal poses a significant public health cha
      <p style="font-weight: bold;">Source: <a href="https://publichealthupdate.com/national-population-and-housing-census-2021-a-report-on-maternal-mortality"></a>https://publichealthupdate.com/national-population-and-housing-census-2021-a-report-on-maternal-mortality</p>
 </div>
 
- 
+
 ## Features
  
 - Personalized Assistance
@@ -21,14 +21,19 @@ The maternal mortality rate (MMR) in Nepal poses a significant public health cha
 - Quick Response Time
 - Emergency Assistance
 
+
+ 
 ## Demo
+
+https://github.com/Amarnath-Rao/WRB-MotherMind/assets/96937608/7957ef16-999f-47e7-80c2-8ec5ac17d843
+
 
 ### Installation
 
 1. Clone the repository
  
    ```bash
-   https://github.com/AmarnathRao/repo
+   https://github.com/AmarnathRao/WRB-MotherMind
    ```
 
 2. Installation of node packages
